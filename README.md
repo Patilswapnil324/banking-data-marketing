@@ -1,5 +1,5 @@
 # banking-data-marketing
-analysis &amp; model building of banking data to identify potential customers so that they can be targeted to sell  term deposit plan via calls
+analysis and model building of banking data to identify potential customers so that they can be targeted to sell term deposit plans via calls.
 
 Table of contents
 
